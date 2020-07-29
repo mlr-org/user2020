@@ -1,6 +1,6 @@
 # useR! 2020 online tutorial on mlr3
 
-The tutorial will be held by [Bernd Bischl](https://twitter.com/BBischl) and [Michel Lang](https://twitter.com/michellangts) on (date TBA).
+The tutorial will be held by [Bernd Bischl](https://twitter.com/BBischl) and [Michel Lang](https://twitter.com/michellangts) on [August 7th, 15:00 UTC](https://arewemeetingyet.com/UTC/2020-08-07/15:00/useR!%202020%20Tutorial:%20mlr3).
 The event is hosted by the [RLadies Galápagos](https://twitter.com/rladiesgps).
 
 
