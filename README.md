@@ -3,6 +3,7 @@
 The tutorial will be held by [Bernd Bischl](https://twitter.com/BBischl) and [Michel Lang](https://twitter.com/michellangts) on (date TBA).
 The event is hosted by the [RLadies Galápagos](https://twitter.com/rladiesgps).
 
+
 ## About
 
 Our tutorial introduces the package [mlr3](https://mlr3.mlr-org.com) for modern, state-of-the-art machine learning in R.
@@ -23,10 +24,15 @@ This will allow participants to take advantage of its functionality for their ow
 * how to get the technical "nitty-gritties" for ML experiments right, e.g., speed up by parallelization, encapsulation of experiments in external processes or working on databases.
 
 
-After the tutorial, participants will be able to implement complex solutions to real-world machine learning problems, and to evaluate the different design decisions necessary for such implementations, in particular the choice between different modelling and preprocessing techniques.
-
-
 ## Target Audience
+
 We target to users with at least basic knowledge of machine learning concepts who are not yet familiar with `mlr3`. 
-We require a working knowledge of R at medium level. 
-Being able to work with tabular data is essential (subsetting, summarizing, transforming) and one should know R's general type system and basic operations.
+We require a working knowledge of R at medium level.
+One should know R's general type system and basic operations.
+For the exercises (which we will not do live anymore due to the transition to an online course), it is also essential to work with tabular data (subsetting, summarizing, transforming).
+
+
+## Course Materials 
+
+We will publish slides and example code in time before the tutorial starts in this GitHub repository.
+We also highly recommend to check out our [book](https://mlr3book.mlr-org.com/), [cheat sheets](https://cheatsheets.mlr-org.com/), and the [gallery](https://mlr3gallery.mlr-org.com/) with exemplary case studies
