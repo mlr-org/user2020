@@ -1,6 +1,6 @@
 # useR! 2020 online tutorial on mlr3
 
-The tutorial will be held by Bernd Bischl ([home page](https://www.slds.stat.uni-muenchen.de/), [twitter](https://twitter.com/BBischl)) and Michel Lang ([twitter](https://twitter.com/michellangts)) on [August 7th, 15:00 UTC](https://arewemeetingyet.com/UTC/2020-08-07/15:00/useR!%202020%20Tutorial:%20mlr3) (3 hours).
+The tutorial will be held by Bernd Bischl ([home page](https://www.slds.stat.uni-muenchen.de/), [twitter](https://twitter.com/BBischl)) and Michel Lang ([twitter](https://twitter.com/michellangts)) on [August 7th, 15:00 UTC](https://arewemeetingyet.com/UTC/2020-08-07/15:00/useR!%202020%20Tutorial:%20mlr3) for approximately 3 hours.
 The event is hosted by the [RLadies Galápagos](https://twitter.com/rladiesgps).
 
 
@@ -46,4 +46,4 @@ The tutorial is split into 3 parts (55 min each, talk + use case), in the middle
 2. mlr3tuning 
 3. mlr3pipelines
 
-At the end of each session we will answer questions.
+At the end of each session we will answer questions via [sli.do](https://app.sli.do/event/tazsdetb).
