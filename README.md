@@ -37,3 +37,13 @@ Some experience with [R6](https://cran.r-project.org/package=R6) and [data.table
 We will publish slides and example code in time before the tutorial starts in this GitHub repository.
 We also highly recommend to check out our [book](https://mlr3book.mlr-org.com/) and the [gallery](https://mlr3gallery.mlr-org.com/) with exemplary case studies.
 The most time efficient way to get into the package is to read the [cheat sheets](https://cheatsheets.mlr-org.com/).
+
+## Schedule 
+
+The tutorial is split into 3 parts (55 min each, talk + use case), in the middle there will be a 15 min coffee break:
+
+1. mlr3
+2. mlr3tuning 
+3. mlr3pipelines
+
+At the end of each session we will answer questions.
