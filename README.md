@@ -8,7 +8,7 @@ The event is hosted by the [RLadies Galápagos](https://twitter.com/rladiesgps).
 
 Our tutorial introduces the package [mlr3](https://mlr3.mlr-org.com) for modern, state-of-the-art machine learning in R.
 The `mlr3` ecosystem provides a one-stop solution for all machine learning (ML) needs, spanning preprocessing, model learning and evaluation, ensembles, visualization, and hyperparameter tuning. 
-Its pipeline system [mlr3pipelines](https://mlr3.mlr-org.com) allows to easily express complex workflows, and to quickly prototype new ideas and applications. 
+Its pipeline system [mlr3pipelines](https://mlr3pipelines.mlr-org.com) allows to easily express complex workflows, and to quickly prototype new ideas and applications. 
 Whether you are applying ML to solve a practical prediction problem, implementing learning algorithms as a research software engineer or researching ML by empirical means, 
 `mlr3` can help make your workflow more readable and efficient.
 
