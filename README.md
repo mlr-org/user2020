@@ -46,4 +46,4 @@ The tutorial is split into 3 parts (55 min each, talk + use case), in the middle
 2. mlr3tuning 
 3. mlr3pipelines
 
-At the end of each session we will answer questions via [sli.do](https://app.sli.do/event/tazsdetb).
+At the end of each session we will answer questions asked and upvoted via [sli.do](https://app.sli.do/event/tazsdetb).
