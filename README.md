@@ -34,8 +34,10 @@ Some experience with [R6](https://cran.r-project.org/package=R6) and [data.table
 
 ## Course Materials
 
-We will publish slides and example code in time before the tutorial starts in this GitHub repository.
-We also highly recommend to check out our [book](https://mlr3book.mlr-org.com/) and the [gallery](https://mlr3gallery.mlr-org.com/) with exemplary case studies.
+Slides can be found in the pdf directory of this repository.
+The examples are rendered in the [gallery](https://mlr3gallery.mlr-org.com/) with tag [german credit](https://mlr3gallery.mlr-org.com/#german_credit).
+
+We also highly recommend to check out our [book](https://mlr3book.mlr-org.com/).
 The most time efficient way to get into the package is to read the [cheat sheets](https://cheatsheets.mlr-org.com/).
 
 ## Schedule 
