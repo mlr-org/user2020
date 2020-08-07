@@ -37,6 +37,28 @@ Some experience with [R6](https://cran.r-project.org/package=R6) and [data.table
 Slides can be found in the pdf directory of this repository.
 The examples are rendered in the [gallery](https://mlr3gallery.mlr-org.com/) with tag [german credit](https://mlr3gallery.mlr-org.com/#german_credit).
 
+Install these packages for the examples:
+
+```{r}
+install.packages("mlr3")
+install.packages("mlr3learners")
+install.packages("data.table")
+install.packages("mlr3viz")
+install.packages("ggplot2")
+install.packages("mlr3tuning")
+install.packages("paradox")
+install.packages("mlr3filters")
+install.packages("remotes")
+install.packages("praznik")
+install.packages("ranger")
+install.packages("kknn")
+install.packages("xgboost")
+install.packages("rchallenge")
+install.packages("skimr")
+install.packages("DataExplorer")
+remotes::install_github("mlr-org/mlr3pipelines")
+```
+
 We also highly recommend to check out our [book](https://mlr3book.mlr-org.com/).
 The most time efficient way to get into the package is to read the [cheat sheets](https://cheatsheets.mlr-org.com/).
 
