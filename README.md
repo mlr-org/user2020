@@ -3,6 +3,7 @@
 The tutorial will be held by Bernd Bischl ([home page](https://www.slds.stat.uni-muenchen.de/), [twitter](https://twitter.com/BBischl)) and Michel Lang ([twitter](https://twitter.com/michellangts)) on [August 7th, 15:00 UTC](https://arewemeetingyet.com/UTC/2020-08-07/15:00/useR!%202020%20Tutorial:%20mlr3) for approximately 3 hours.
 The event is hosted by the [RLadies Galápagos](https://twitter.com/rladiesgps).
 
+**UPDATE**: The recording can be found on [Youtube](https://youtu.be/T43hO2o_nZw).
 
 ## About
 
